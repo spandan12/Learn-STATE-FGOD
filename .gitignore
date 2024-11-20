@@ -3,16 +3,13 @@ D_ALL/models/*.npz
 ResBef*
 results_feb*
 res_Feb*
-CUB
+
 Plotting*
 D_ALL/data/
-D_ALL/CUB/
-D_ALL/TINYIMAGENET/
-D_ALL/TINYIMAGENET copy/
-D_ALL/AWA2/
+
 GIT_TOKENS.md
 run_examples.sh
-*.npy
+# *.npy
 *.zip
 
 # General
